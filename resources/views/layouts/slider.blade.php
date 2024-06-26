@@ -5,10 +5,10 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12 col-sm-6">
                         <div class="slider-content slider-animated-1">
-                            <h3 class="animated">Smart Products</h3>
-                            <h1 class="animated">Summer Offer <br>2020 Collection</h1>
+
+                            <h1 class="animated">Flone <br>Le site qu'il vous faut</h1>
                             <div class="slider-btn btn-hover">
-                                <a class="animated" href="shop.html">SHOP NOW</a>
+                                <a class="animated" href="shop.html">C'EST PARTI</a>
                             </div>
                         </div>
                     </div>
@@ -25,10 +25,10 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12 col-sm-6">
                         <div class="slider-content slider-animated-1">
-                            <h3 class="animated">Smart Products</h3>
-                            <h1 class="animated">Summer Offer <br>2020 Collection</h1>
+
+                            <h1 class="animated">Flone<br>Le site qu'il vous faut</h1>
                             <div class="slider-btn btn-hover">
-                                <a class="animated" href="shop.html">SHOP NOW</a>
+                                <a class="animated" href="shop.html">C'EST PARTI</a>
                             </div>
                         </div>
                     </div>

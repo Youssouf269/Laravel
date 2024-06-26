@@ -46,8 +46,8 @@ page produits
                                         <div class="product-img">
                                             <a href="product-details.html">
                                                 <img class="default-img" src="{{asset('images/products/'.$product->photo1)}}" alt=>
-                                                <img class="default-img" src="{{asset('images/products/'.$product->photo2)}}" alt=>
-                                                <img class="hover-img" src="assets/img/product/pro-1-1.jpg" alt="">
+                                                <img class="hover-img" src="{{asset('images/products/'.$product->photo2)}}" alt=>
+
                                             </a>
                                             <span class="pink">-10%</span>
                                             <div class="product-action">

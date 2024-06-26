@@ -26,7 +26,7 @@
      <div class="same-style cart-wrap">
          <button class="icon-cart">
              <i class="pe-7s-shopbag"></i>
-             <span class="count-style">02</span>
+             <span class="count-style">{{$panierCount}}</span>
          </button>
          <div class="shopping-cart-content">
              <ul>
